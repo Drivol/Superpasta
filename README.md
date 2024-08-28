@@ -1,5 +1,10 @@
 # Superpasta
 Criação de uma superpasta
 
-![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/280px-Lion_waiting_in_Namibia.jpg) 
+# COLOCAR IMG
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyeSsp0eoARHjxkzBqz5YDiB4QKBuSTOTqUQ&s) 
 
+# COLOCAR LINK
+[Rede social](https://www.facebook.com/?locale=pt_BR)
+
+# COLOCANDO LINK IMG
